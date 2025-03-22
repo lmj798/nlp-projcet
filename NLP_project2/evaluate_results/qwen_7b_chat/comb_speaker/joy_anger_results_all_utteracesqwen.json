@@ -1,0 +1,722 @@
+[
+    {
+        "index": 0,
+        "speaker_emotion": [
+            {
+                "label": "anger",
+                "score": 0.927017867565155
+            },
+            {
+                "label": "anger",
+                "score": 0.8165136575698853
+            }
+        ],
+        "listener_emotion": [
+            {
+                "label": "neutral",
+                "score": 0.5655056834220886
+            },
+            {
+                "label": "neutral",
+                "score": 0.854651689529419
+            }
+        ]
+    },
+    {
+        "index": 1,
+        "speaker_emotion": [
+            {
+                "label": "anger",
+                "score": 0.927017867565155
+            },
+            {
+                "label": "anger",
+                "score": 0.8165136575698853
+            }
+        ],
+        "listener_emotion": [
+            {
+                "label": "neutral",
+                "score": 0.5655056834220886
+            },
+            {
+                "label": "neutral",
+                "score": 0.854651689529419
+            }
+        ]
+    },
+    {
+        "index": 2,
+        "speaker_emotion": [
+            {
+                "label": "anger",
+                "score": 0.9454700946807861
+            },
+            {
+                "label": "neutral",
+                "score": 0.9342676401138306
+            },
+            {
+                "label": "neutral",
+                "score": 0.9166897535324097
+            },
+            {
+                "label": "neutral",
+                "score": 0.8491577506065369
+            },
+            {
+                "label": "neutral",
+                "score": 0.8491577506065369
+            },
+            {
+                "label": "neutral",
+                "score": 0.8491577506065369
+            },
+            {
+                "label": "neutral",
+                "score": 0.7155670523643494
+            },
+            {
+                "label": "neutral",
+                "score": 0.8411381244659424
+            }
+        ],
+        "listener_emotion": [
+            {
+                "label": "neutral",
+                "score": 0.9008743762969971
+            },
+            {
+                "label": "neutral",
+                "score": 0.8905808329582214
+            },
+            {
+                "label": "neutral",
+                "score": 0.8489013314247131
+            },
+            {
+                "label": "neutral",
+                "score": 0.9420467615127563
+            },
+            {
+                "label": "neutral",
+                "score": 0.9420467615127563
+            },
+            {
+                "label": "neutral",
+                "score": 0.9420467615127563
+            },
+            {
+                "label": "neutral",
+                "score": 0.8642569184303284
+            }
+        ]
+    },
+    {
+        "index": 3,
+        "speaker_emotion": [
+            {
+                "label": "anger",
+                "score": 0.927017867565155
+            },
+            {
+                "label": "anger",
+                "score": 0.8165136575698853
+            }
+        ],
+        "listener_emotion": [
+            {
+                "label": "neutral",
+                "score": 0.5655056834220886
+            },
+            {
+                "label": "neutral",
+                "score": 0.854651689529419
+            }
+        ]
+    },
+    {
+        "index": 4,
+        "speaker_emotion": [
+            {
+                "label": "anger",
+                "score": 0.927017867565155
+            },
+            {
+                "label": "anger",
+                "score": 0.8165136575698853
+            }
+        ],
+        "listener_emotion": [
+            {
+                "label": "neutral",
+                "score": 0.5655056834220886
+            },
+            {
+                "label": "neutral",
+                "score": 0.854651689529419
+            }
+        ]
+    },
+    {
+        "index": 5,
+        "speaker_emotion": [
+            {
+                "label": "anger",
+                "score": 0.927017867565155
+            },
+            {
+                "label": "anger",
+                "score": 0.8165136575698853
+            }
+        ],
+        "listener_emotion": [
+            {
+                "label": "neutral",
+                "score": 0.5655056834220886
+            },
+            {
+                "label": "neutral",
+                "score": 0.854651689529419
+            }
+        ]
+    },
+    {
+        "index": 6,
+        "speaker_emotion": [
+            {
+                "label": "anger",
+                "score": 0.9454700946807861
+            },
+            {
+                "label": "neutral",
+                "score": 0.9342676401138306
+            },
+            {
+                "label": "neutral",
+                "score": 0.9166897535324097
+            },
+            {
+                "label": "neutral",
+                "score": 0.8491577506065369
+            },
+            {
+                "label": "neutral",
+                "score": 0.8491577506065369
+            },
+            {
+                "label": "neutral",
+                "score": 0.8491577506065369
+            },
+            {
+                "label": "neutral",
+                "score": 0.7155670523643494
+            },
+            {
+                "label": "neutral",
+                "score": 0.8411381244659424
+            }
+        ],
+        "listener_emotion": [
+            {
+                "label": "neutral",
+                "score": 0.9008743762969971
+            },
+            {
+                "label": "neutral",
+                "score": 0.8905808329582214
+            },
+            {
+                "label": "neutral",
+                "score": 0.8489013314247131
+            },
+            {
+                "label": "neutral",
+                "score": 0.9420467615127563
+            },
+            {
+                "label": "neutral",
+                "score": 0.9420467615127563
+            },
+            {
+                "label": "neutral",
+                "score": 0.9420467615127563
+            },
+            {
+                "label": "neutral",
+                "score": 0.8642569184303284
+            }
+        ]
+    },
+    {
+        "index": 7,
+        "speaker_emotion": [
+            {
+                "label": "anger",
+                "score": 0.9454700946807861
+            },
+            {
+                "label": "neutral",
+                "score": 0.9342676401138306
+            },
+            {
+                "label": "neutral",
+                "score": 0.9166897535324097
+            },
+            {
+                "label": "neutral",
+                "score": 0.8491577506065369
+            },
+            {
+                "label": "neutral",
+                "score": 0.8491577506065369
+            },
+            {
+                "label": "neutral",
+                "score": 0.8491577506065369
+            },
+            {
+                "label": "neutral",
+                "score": 0.7155670523643494
+            },
+            {
+                "label": "neutral",
+                "score": 0.8411381244659424
+            }
+        ],
+        "listener_emotion": [
+            {
+                "label": "neutral",
+                "score": 0.9008743762969971
+            },
+            {
+                "label": "neutral",
+                "score": 0.8905808329582214
+            },
+            {
+                "label": "neutral",
+                "score": 0.8489013314247131
+            },
+            {
+                "label": "neutral",
+                "score": 0.9420467615127563
+            },
+            {
+                "label": "neutral",
+                "score": 0.9420467615127563
+            },
+            {
+                "label": "neutral",
+                "score": 0.9420467615127563
+            },
+            {
+                "label": "neutral",
+                "score": 0.8642569184303284
+            }
+        ]
+    },
+    {
+        "index": 8,
+        "speaker_emotion": [
+            {
+                "label": "anger",
+                "score": 0.9454700946807861
+            },
+            {
+                "label": "neutral",
+                "score": 0.9342676401138306
+            },
+            {
+                "label": "neutral",
+                "score": 0.9166897535324097
+            },
+            {
+                "label": "neutral",
+                "score": 0.8491577506065369
+            },
+            {
+                "label": "neutral",
+                "score": 0.8491577506065369
+            },
+            {
+                "label": "neutral",
+                "score": 0.8491577506065369
+            },
+            {
+                "label": "neutral",
+                "score": 0.7155670523643494
+            },
+            {
+                "label": "neutral",
+                "score": 0.8411381244659424
+            }
+        ],
+        "listener_emotion": [
+            {
+                "label": "neutral",
+                "score": 0.9008743762969971
+            },
+            {
+                "label": "neutral",
+                "score": 0.8905808329582214
+            },
+            {
+                "label": "neutral",
+                "score": 0.8489013314247131
+            },
+            {
+                "label": "neutral",
+                "score": 0.9420467615127563
+            },
+            {
+                "label": "neutral",
+                "score": 0.9420467615127563
+            },
+            {
+                "label": "neutral",
+                "score": 0.9420467615127563
+            },
+            {
+                "label": "neutral",
+                "score": 0.8642569184303284
+            }
+        ]
+    },
+    {
+        "index": 9,
+        "speaker_emotion": [
+            {
+                "label": "anger",
+                "score": 0.9454700946807861
+            },
+            {
+                "label": "neutral",
+                "score": 0.9342676401138306
+            },
+            {
+                "label": "neutral",
+                "score": 0.9166897535324097
+            },
+            {
+                "label": "neutral",
+                "score": 0.8491577506065369
+            },
+            {
+                "label": "neutral",
+                "score": 0.8491577506065369
+            },
+            {
+                "label": "neutral",
+                "score": 0.8491577506065369
+            },
+            {
+                "label": "neutral",
+                "score": 0.7155670523643494
+            },
+            {
+                "label": "neutral",
+                "score": 0.8411381244659424
+            }
+        ],
+        "listener_emotion": [
+            {
+                "label": "neutral",
+                "score": 0.9008743762969971
+            },
+            {
+                "label": "neutral",
+                "score": 0.8905808329582214
+            },
+            {
+                "label": "neutral",
+                "score": 0.8489013314247131
+            },
+            {
+                "label": "neutral",
+                "score": 0.9420467615127563
+            },
+            {
+                "label": "neutral",
+                "score": 0.9420467615127563
+            },
+            {
+                "label": "neutral",
+                "score": 0.9420467615127563
+            },
+            {
+                "label": "neutral",
+                "score": 0.8642569184303284
+            }
+        ]
+    },
+    {
+        "index": 10,
+        "speaker_emotion": [
+            {
+                "label": "anger",
+                "score": 0.9454700946807861
+            },
+            {
+                "label": "neutral",
+                "score": 0.9342676401138306
+            },
+            {
+                "label": "neutral",
+                "score": 0.9166897535324097
+            },
+            {
+                "label": "neutral",
+                "score": 0.8491577506065369
+            },
+            {
+                "label": "neutral",
+                "score": 0.8491577506065369
+            },
+            {
+                "label": "neutral",
+                "score": 0.8491577506065369
+            },
+            {
+                "label": "neutral",
+                "score": 0.7155670523643494
+            },
+            {
+                "label": "neutral",
+                "score": 0.8411381244659424
+            }
+        ],
+        "listener_emotion": [
+            {
+                "label": "neutral",
+                "score": 0.9008743762969971
+            },
+            {
+                "label": "neutral",
+                "score": 0.8905808329582214
+            },
+            {
+                "label": "neutral",
+                "score": 0.8489013314247131
+            },
+            {
+                "label": "neutral",
+                "score": 0.9420467615127563
+            },
+            {
+                "label": "neutral",
+                "score": 0.9420467615127563
+            },
+            {
+                "label": "neutral",
+                "score": 0.9420467615127563
+            },
+            {
+                "label": "neutral",
+                "score": 0.8642569184303284
+            }
+        ]
+    },
+    {
+        "index": 11,
+        "speaker_emotion": [
+            {
+                "label": "anger",
+                "score": 0.9454700946807861
+            },
+            {
+                "label": "neutral",
+                "score": 0.9342676401138306
+            },
+            {
+                "label": "neutral",
+                "score": 0.9166897535324097
+            },
+            {
+                "label": "neutral",
+                "score": 0.8491577506065369
+            },
+            {
+                "label": "neutral",
+                "score": 0.8491577506065369
+            },
+            {
+                "label": "neutral",
+                "score": 0.8491577506065369
+            },
+            {
+                "label": "neutral",
+                "score": 0.7155670523643494
+            },
+            {
+                "label": "neutral",
+                "score": 0.8411381244659424
+            }
+        ],
+        "listener_emotion": [
+            {
+                "label": "neutral",
+                "score": 0.9008743762969971
+            },
+            {
+                "label": "neutral",
+                "score": 0.8905808329582214
+            },
+            {
+                "label": "neutral",
+                "score": 0.8489013314247131
+            },
+            {
+                "label": "neutral",
+                "score": 0.9420467615127563
+            },
+            {
+                "label": "neutral",
+                "score": 0.9420467615127563
+            },
+            {
+                "label": "neutral",
+                "score": 0.9420467615127563
+            },
+            {
+                "label": "neutral",
+                "score": 0.8642569184303284
+            }
+        ]
+    },
+    {
+        "index": 12,
+        "speaker_emotion": [
+            {
+                "label": "anger",
+                "score": 0.9454700946807861
+            },
+            {
+                "label": "neutral",
+                "score": 0.9342676401138306
+            },
+            {
+                "label": "neutral",
+                "score": 0.9166897535324097
+            },
+            {
+                "label": "neutral",
+                "score": 0.8491577506065369
+            },
+            {
+                "label": "neutral",
+                "score": 0.8491577506065369
+            },
+            {
+                "label": "neutral",
+                "score": 0.8491577506065369
+            },
+            {
+                "label": "neutral",
+                "score": 0.7155670523643494
+            },
+            {
+                "label": "neutral",
+                "score": 0.8411381244659424
+            }
+        ],
+        "listener_emotion": [
+            {
+                "label": "neutral",
+                "score": 0.9008743762969971
+            },
+            {
+                "label": "neutral",
+                "score": 0.8905808329582214
+            },
+            {
+                "label": "neutral",
+                "score": 0.8489013314247131
+            },
+            {
+                "label": "neutral",
+                "score": 0.9420467615127563
+            },
+            {
+                "label": "neutral",
+                "score": 0.9420467615127563
+            },
+            {
+                "label": "neutral",
+                "score": 0.9420467615127563
+            },
+            {
+                "label": "neutral",
+                "score": 0.8642569184303284
+            }
+        ]
+    },
+    {
+        "index": 13,
+        "speaker_emotion": [
+            {
+                "label": "anger",
+                "score": 0.927017867565155
+            },
+            {
+                "label": "anger",
+                "score": 0.8165136575698853
+            }
+        ],
+        "listener_emotion": [
+            {
+                "label": "neutral",
+                "score": 0.5655056834220886
+            },
+            {
+                "label": "neutral",
+                "score": 0.854651689529419
+            }
+        ]
+    },
+    {
+        "index": 14,
+        "speaker_emotion": [
+            {
+                "label": "anger",
+                "score": 0.927017867565155
+            },
+            {
+                "label": "anger",
+                "score": 0.8165136575698853
+            }
+        ],
+        "listener_emotion": [
+            {
+                "label": "neutral",
+                "score": 0.5655056834220886
+            },
+            {
+                "label": "neutral",
+                "score": 0.854651689529419
+            }
+        ]
+    },
+    {
+        "index": 15,
+        "speaker_emotion": [
+            {
+                "label": "anger",
+                "score": 0.927017867565155
+            },
+            {
+                "label": "anger",
+                "score": 0.8165136575698853
+            }
+        ],
+        "listener_emotion": [
+            {
+                "label": "neutral",
+                "score": 0.5655056834220886
+            },
+            {
+                "label": "neutral",
+                "score": 0.854651689529419
+            }
+        ]
+    }
+]

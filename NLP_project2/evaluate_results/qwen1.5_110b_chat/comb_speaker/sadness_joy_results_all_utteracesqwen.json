@@ -1,0 +1,378 @@
+[
+    {
+        "index": 0,
+        "speaker_emotion": [
+            {
+                "label": "joy",
+                "score": 0.6956133842468262
+            },
+            {
+                "label": "joy",
+                "score": 0.8833410143852234
+            },
+            {
+                "label": "joy",
+                "score": 0.9330171346664429
+            }
+        ],
+        "listener_emotion": [
+            {
+                "label": "joy",
+                "score": 0.7781421542167664
+            },
+            {
+                "label": "joy",
+                "score": 0.957065999507904
+            }
+        ]
+    },
+    {
+        "index": 1,
+        "speaker_emotion": [
+            {
+                "label": "joy",
+                "score": 0.9379696846008301
+            },
+            {
+                "label": "surprise",
+                "score": 0.466241717338562
+            },
+            {
+                "label": "joy",
+                "score": 0.8351564407348633
+            }
+        ],
+        "listener_emotion": [
+            {
+                "label": "joy",
+                "score": 0.9385676383972168
+            },
+            {
+                "label": "joy",
+                "score": 0.7982591986656189
+            }
+        ]
+    },
+    {
+        "index": 2,
+        "speaker_emotion": [
+            {
+                "label": "joy",
+                "score": 0.8237021565437317
+            },
+            {
+                "label": "joy",
+                "score": 0.9342101216316223
+            }
+        ],
+        "listener_emotion": [
+            {
+                "label": "joy",
+                "score": 0.8335784077644348
+            }
+        ]
+    },
+    {
+        "index": 3,
+        "speaker_emotion": [
+            {
+                "label": "joy",
+                "score": 0.6442782878875732
+            },
+            {
+                "label": "joy",
+                "score": 0.8569109439849854
+            }
+        ],
+        "listener_emotion": [
+            {
+                "label": "joy",
+                "score": 0.7220051288604736
+            }
+        ]
+    },
+    {
+        "index": 4,
+        "speaker_emotion": [
+            {
+                "label": "joy",
+                "score": 0.8079538345336914
+            },
+            {
+                "label": "joy",
+                "score": 0.9244768619537354
+            },
+            {
+                "label": "joy",
+                "score": 0.9639676213264465
+            }
+        ],
+        "listener_emotion": [
+            {
+                "label": "joy",
+                "score": 0.9327968955039978
+            },
+            {
+                "label": "joy",
+                "score": 0.9311147928237915
+            }
+        ]
+    },
+    {
+        "index": 5,
+        "speaker_emotion": [
+            {
+                "label": "joy",
+                "score": 0.75157630443573
+            },
+            {
+                "label": "surprise",
+                "score": 0.3764362931251526
+            }
+        ],
+        "listener_emotion": [
+            {
+                "label": "joy",
+                "score": 0.847001850605011
+            },
+            {
+                "label": "joy",
+                "score": 0.6031553745269775
+            }
+        ]
+    },
+    {
+        "index": 6,
+        "speaker_emotion": [
+            {
+                "label": "joy",
+                "score": 0.7934839129447937
+            },
+            {
+                "label": "joy",
+                "score": 0.6449922919273376
+            },
+            {
+                "label": "joy",
+                "score": 0.8756871223449707
+            }
+        ],
+        "listener_emotion": [
+            {
+                "label": "joy",
+                "score": 0.7538057565689087
+            },
+            {
+                "label": "joy",
+                "score": 0.9036982655525208
+            }
+        ]
+    },
+    {
+        "index": 7,
+        "speaker_emotion": [
+            {
+                "label": "joy",
+                "score": 0.5013859272003174
+            },
+            {
+                "label": "joy",
+                "score": 0.9107530117034912
+            }
+        ],
+        "listener_emotion": [
+            {
+                "label": "joy",
+                "score": 0.9392239451408386
+            }
+        ]
+    },
+    {
+        "index": 8,
+        "speaker_emotion": [
+            {
+                "label": "joy",
+                "score": 0.9321634769439697
+            },
+            {
+                "label": "joy",
+                "score": 0.9691197872161865
+            }
+        ],
+        "listener_emotion": [
+            {
+                "label": "joy",
+                "score": 0.8913947939872742
+            },
+            {
+                "label": "neutral",
+                "score": 0.7012087106704712
+            }
+        ]
+    },
+    {
+        "index": 9,
+        "speaker_emotion": [
+            {
+                "label": "joy",
+                "score": 0.9154008626937866
+            },
+            {
+                "label": "joy",
+                "score": 0.9169840812683105
+            }
+        ],
+        "listener_emotion": [
+            {
+                "label": "joy",
+                "score": 0.9616442322731018
+            }
+        ]
+    },
+    {
+        "index": 10,
+        "speaker_emotion": [
+            {
+                "label": "joy",
+                "score": 0.8477665781974792
+            },
+            {
+                "label": "joy",
+                "score": 0.7327617406845093
+            },
+            {
+                "label": "neutral",
+                "score": 0.8057971000671387
+            }
+        ],
+        "listener_emotion": [
+            {
+                "label": "joy",
+                "score": 0.752776026725769
+            },
+            {
+                "label": "joy",
+                "score": 0.607866644859314
+            }
+        ]
+    },
+    {
+        "index": 11,
+        "speaker_emotion": [
+            {
+                "label": "joy",
+                "score": 0.8306511640548706
+            },
+            {
+                "label": "joy",
+                "score": 0.8757126927375793
+            },
+            {
+                "label": "joy",
+                "score": 0.7918519377708435
+            }
+        ],
+        "listener_emotion": [
+            {
+                "label": "joy",
+                "score": 0.966404914855957
+            },
+            {
+                "label": "joy",
+                "score": 0.8923293352127075
+            }
+        ]
+    },
+    {
+        "index": 12,
+        "speaker_emotion": [
+            {
+                "label": "joy",
+                "score": 0.711690366268158
+            },
+            {
+                "label": "joy",
+                "score": 0.7091847658157349
+            },
+            {
+                "label": "joy",
+                "score": 0.9551336169242859
+            }
+        ],
+        "listener_emotion": [
+            {
+                "label": "joy",
+                "score": 0.5717596411705017
+            },
+            {
+                "label": "joy",
+                "score": 0.9356603026390076
+            }
+        ]
+    },
+    {
+        "index": 13,
+        "speaker_emotion": [
+            {
+                "label": "joy",
+                "score": 0.869264543056488
+            },
+            {
+                "label": "joy",
+                "score": 0.6964049935340881
+            }
+        ],
+        "listener_emotion": [
+            {
+                "label": "joy",
+                "score": 0.7058762311935425
+            }
+        ]
+    },
+    {
+        "index": 14,
+        "speaker_emotion": [
+            {
+                "label": "joy",
+                "score": 0.9229963421821594
+            },
+            {
+                "label": "joy",
+                "score": 0.8902262449264526
+            },
+            {
+                "label": "joy",
+                "score": 0.47562432289123535
+            }
+        ],
+        "listener_emotion": [
+            {
+                "label": "joy",
+                "score": 0.9717903733253479
+            },
+            {
+                "label": "joy",
+                "score": 0.9628354907035828
+            }
+        ]
+    },
+    {
+        "index": 15,
+        "speaker_emotion": [
+            {
+                "label": "joy",
+                "score": 0.7393648624420166
+            },
+            {
+                "label": "joy",
+                "score": 0.9677703380584717
+            }
+        ],
+        "listener_emotion": [
+            {
+                "label": "joy",
+                "score": 0.8734481930732727
+            }
+        ]
+    }
+]

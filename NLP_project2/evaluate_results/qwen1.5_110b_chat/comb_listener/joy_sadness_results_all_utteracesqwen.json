@@ -1,0 +1,530 @@
+[
+    {
+        "index": 0,
+        "speaker_emotion": [
+            {
+                "label": "neutral",
+                "score": 0.774136483669281
+            },
+            {
+                "label": "neutral",
+                "score": 0.5254672169685364
+            },
+            {
+                "label": "fear",
+                "score": 0.819461464881897
+            },
+            {
+                "label": "neutral",
+                "score": 0.8819593191146851
+            }
+        ],
+        "listener_emotion": [
+            {
+                "label": "neutral",
+                "score": 0.7945783734321594
+            },
+            {
+                "label": "fear",
+                "score": 0.834471583366394
+            },
+            {
+                "label": "fear",
+                "score": 0.8964076638221741
+            }
+        ]
+    },
+    {
+        "index": 1,
+        "speaker_emotion": [
+            {
+                "label": "neutral",
+                "score": 0.7778511643409729
+            },
+            {
+                "label": "neutral",
+                "score": 0.6910628080368042
+            },
+            {
+                "label": "fear",
+                "score": 0.44382432103157043
+            },
+            {
+                "label": "neutral",
+                "score": 0.8225362300872803
+            }
+        ],
+        "listener_emotion": [
+            {
+                "label": "neutral",
+                "score": 0.915312647819519
+            },
+            {
+                "label": "fear",
+                "score": 0.8440133929252625
+            },
+            {
+                "label": "sadness",
+                "score": 0.49595338106155396
+            },
+            {
+                "label": "joy",
+                "score": 0.5061830878257751
+            }
+        ]
+    },
+    {
+        "index": 2,
+        "speaker_emotion": [
+            {
+                "label": "neutral",
+                "score": 0.9099059700965881
+            },
+            {
+                "label": "disgust",
+                "score": 0.36229318380355835
+            },
+            {
+                "label": "neutral",
+                "score": 0.8482632637023926
+            }
+        ],
+        "listener_emotion": [
+            {
+                "label": "neutral",
+                "score": 0.7330359816551208
+            },
+            {
+                "label": "fear",
+                "score": 0.5504194498062134
+            }
+        ]
+    },
+    {
+        "index": 3,
+        "speaker_emotion": [
+            {
+                "label": "neutral",
+                "score": 0.7778511643409729
+            },
+            {
+                "label": "neutral",
+                "score": 0.830079197883606
+            },
+            {
+                "label": "joy",
+                "score": 0.8511353731155396
+            },
+            {
+                "label": "joy",
+                "score": 0.9887400269508362
+            }
+        ],
+        "listener_emotion": [
+            {
+                "label": "neutral",
+                "score": 0.7778511643409729
+            },
+            {
+                "label": "joy",
+                "score": 0.4028818905353546
+            },
+            {
+                "label": "sadness",
+                "score": 0.6859772801399231
+            }
+        ]
+    },
+    {
+        "index": 4,
+        "speaker_emotion": [
+            {
+                "label": "neutral",
+                "score": 0.7778511643409729
+            },
+            {
+                "label": "neutral",
+                "score": 0.6020472049713135
+            },
+            {
+                "label": "sadness",
+                "score": 0.9136314988136292
+            }
+        ],
+        "listener_emotion": [
+            {
+                "label": "neutral",
+                "score": 0.7778511643409729
+            },
+            {
+                "label": "fear",
+                "score": 0.746921956539154
+            },
+            {
+                "label": "neutral",
+                "score": 0.36002784967422485
+            }
+        ]
+    },
+    {
+        "index": 5,
+        "speaker_emotion": [
+            {
+                "label": "neutral",
+                "score": 0.7765064239501953
+            },
+            {
+                "label": "neutral",
+                "score": 0.5017005801200867
+            },
+            {
+                "label": "neutral",
+                "score": 0.8807033896446228
+            }
+        ],
+        "listener_emotion": [
+            {
+                "label": "neutral",
+                "score": 0.7778511643409729
+            },
+            {
+                "label": "neutral",
+                "score": 0.7808402180671692
+            },
+            {
+                "label": "neutral",
+                "score": 0.5607470870018005
+            }
+        ]
+    },
+    {
+        "index": 6,
+        "speaker_emotion": [
+            {
+                "label": "neutral",
+                "score": 0.7778511643409729
+            },
+            {
+                "label": "fear",
+                "score": 0.6537142992019653
+            },
+            {
+                "label": "neutral",
+                "score": 0.9297046661376953
+            },
+            {
+                "label": "neutral",
+                "score": 0.871199369430542
+            }
+        ],
+        "listener_emotion": [
+            {
+                "label": "neutral",
+                "score": 0.7778511643409729
+            },
+            {
+                "label": "fear",
+                "score": 0.8753364086151123
+            },
+            {
+                "label": "fear",
+                "score": 0.4858644902706146
+            }
+        ]
+    },
+    {
+        "index": 7,
+        "speaker_emotion": [
+            {
+                "label": "neutral",
+                "score": 0.774136483669281
+            },
+            {
+                "label": "joy",
+                "score": 0.6573736071586609
+            },
+            {
+                "label": "anger",
+                "score": 0.6314945220947266
+            }
+        ],
+        "listener_emotion": [
+            {
+                "label": "neutral",
+                "score": 0.6079232096672058
+            },
+            {
+                "label": "fear",
+                "score": 0.6887320876121521
+            },
+            {
+                "label": "neutral",
+                "score": 0.6251046657562256
+            }
+        ]
+    },
+    {
+        "index": 8,
+        "speaker_emotion": [
+            {
+                "label": "neutral",
+                "score": 0.7765064239501953
+            },
+            {
+                "label": "sadness",
+                "score": 0.578860878944397
+            }
+        ],
+        "listener_emotion": [
+            {
+                "label": "neutral",
+                "score": 0.905845046043396
+            },
+            {
+                "label": "sadness",
+                "score": 0.896142303943634
+            }
+        ]
+    },
+    {
+        "index": 9,
+        "speaker_emotion": [
+            {
+                "label": "neutral",
+                "score": 0.6771620512008667
+            },
+            {
+                "label": "neutral",
+                "score": 0.6144548654556274
+            },
+            {
+                "label": "neutral",
+                "score": 0.7338324785232544
+            },
+            {
+                "label": "neutral",
+                "score": 0.8976827263832092
+            },
+            {
+                "label": "neutral",
+                "score": 0.5042540431022644
+            }
+        ],
+        "listener_emotion": [
+            {
+                "label": "neutral",
+                "score": 0.7778511643409729
+            },
+            {
+                "label": "fear",
+                "score": 0.6161049604415894
+            },
+            {
+                "label": "surprise",
+                "score": 0.7160584926605225
+            },
+            {
+                "label": "neutral",
+                "score": 0.8467929363250732
+            },
+            {
+                "label": "neutral",
+                "score": 0.5762073993682861
+            }
+        ]
+    },
+    {
+        "index": 10,
+        "speaker_emotion": [
+            {
+                "label": "neutral",
+                "score": 0.7778511643409729
+            },
+            {
+                "label": "surprise",
+                "score": 0.9821680784225464
+            },
+            {
+                "label": "fear",
+                "score": 0.8718566298484802
+            },
+            {
+                "label": "joy",
+                "score": 0.8203824758529663
+            }
+        ],
+        "listener_emotion": [
+            {
+                "label": "neutral",
+                "score": 0.9063133597373962
+            },
+            {
+                "label": "neutral",
+                "score": 0.8267321586608887
+            },
+            {
+                "label": "neutral",
+                "score": 0.7767517566680908
+            },
+            {
+                "label": "sadness",
+                "score": 0.8574799299240112
+            }
+        ]
+    },
+    {
+        "index": 11,
+        "speaker_emotion": [
+            {
+                "label": "neutral",
+                "score": 0.6372325420379639
+            },
+            {
+                "label": "sadness",
+                "score": 0.4468258321285248
+            },
+            {
+                "label": "neutral",
+                "score": 0.7496290802955627
+            }
+        ],
+        "listener_emotion": [
+            {
+                "label": "neutral",
+                "score": 0.7778511643409729
+            },
+            {
+                "label": "sadness",
+                "score": 0.8214345574378967
+            },
+            {
+                "label": "fear",
+                "score": 0.8444948196411133
+            }
+        ]
+    },
+    {
+        "index": 12,
+        "speaker_emotion": [
+            {
+                "label": "neutral",
+                "score": 0.9077200889587402
+            },
+            {
+                "label": "neutral",
+                "score": 0.8693376779556274
+            },
+            {
+                "label": "sadness",
+                "score": 0.8843504786491394
+            },
+            {
+                "label": "neutral",
+                "score": 0.9358174800872803
+            }
+        ],
+        "listener_emotion": [
+            {
+                "label": "neutral",
+                "score": 0.915312647819519
+            },
+            {
+                "label": "sadness",
+                "score": 0.937406599521637
+            },
+            {
+                "label": "sadness",
+                "score": 0.927442193031311
+            }
+        ]
+    },
+    {
+        "index": 13,
+        "speaker_emotion": [
+            {
+                "label": "neutral",
+                "score": 0.7778511643409729
+            },
+            {
+                "label": "sadness",
+                "score": 0.9791935086250305
+            },
+            {
+                "label": "sadness",
+                "score": 0.6600533127784729
+            }
+        ],
+        "listener_emotion": [
+            {
+                "label": "neutral",
+                "score": 0.5854877829551697
+            },
+            {
+                "label": "sadness",
+                "score": 0.4942949712276459
+            },
+            {
+                "label": "disgust",
+                "score": 0.9176243543624878
+            }
+        ]
+    },
+    {
+        "index": 14,
+        "speaker_emotion": [
+            {
+                "label": "neutral",
+                "score": 0.9063133597373962
+            },
+            {
+                "label": "neutral",
+                "score": 0.8155964612960815
+            },
+            {
+                "label": "neutral",
+                "score": 0.9721522927284241
+            },
+            {
+                "label": "neutral",
+                "score": 0.9369397759437561
+            }
+        ],
+        "listener_emotion": [
+            {
+                "label": "neutral",
+                "score": 0.7778511643409729
+            },
+            {
+                "label": "neutral",
+                "score": 0.8457164168357849
+            },
+            {
+                "label": "fear",
+                "score": 0.5450851917266846
+            }
+        ]
+    },
+    {
+        "index": 15,
+        "speaker_emotion": [
+            {
+                "label": "neutral",
+                "score": 0.7778511643409729
+            },
+            {
+                "label": "fear",
+                "score": 0.8280042409896851
+            }
+        ],
+        "listener_emotion": [
+            {
+                "label": "neutral",
+                "score": 0.7778511643409729
+            },
+            {
+                "label": "surprise",
+                "score": 0.7363511919975281
+            }
+        ]
+    }
+]

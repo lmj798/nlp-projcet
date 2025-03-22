@@ -1,0 +1,1 @@
+在python3.11环境下，需要安装nltk及其数据集、re、genism、numpy、sklearn等包，其中nlp.py为未经预训练的产物，666.py为经过预训练的产物

@@ -1,0 +1,914 @@
+[
+    {
+        "index": 0,
+        "speaker_emotion": [
+            {
+                "label": "anger",
+                "score": 0.9454700946807861
+            },
+            {
+                "label": "neutral",
+                "score": 0.8447142243385315
+            },
+            {
+                "label": "neutral",
+                "score": 0.9676184058189392
+            },
+            {
+                "label": "neutral",
+                "score": 0.8528409004211426
+            },
+            {
+                "label": "joy",
+                "score": 0.9886021018028259
+            },
+            {
+                "label": "joy",
+                "score": 0.49143847823143005
+            },
+            {
+                "label": "neutral",
+                "score": 0.48355796933174133
+            },
+            {
+                "label": "joy",
+                "score": 0.4905953109264374
+            }
+        ],
+        "listener_emotion": [
+            {
+                "label": "neutral",
+                "score": 0.7194700241088867
+            },
+            {
+                "label": "neutral",
+                "score": 0.879500150680542
+            },
+            {
+                "label": "neutral",
+                "score": 0.9201167821884155
+            },
+            {
+                "label": "neutral",
+                "score": 0.960548996925354
+            },
+            {
+                "label": "joy",
+                "score": 0.9789854288101196
+            },
+            {
+                "label": "neutral",
+                "score": 0.8946928381919861
+            },
+            {
+                "label": "neutral",
+                "score": 0.8518934845924377
+            },
+            {
+                "label": "neutral",
+                "score": 0.7897449135780334
+            }
+        ]
+    },
+    {
+        "index": 1,
+        "speaker_emotion": [
+            {
+                "label": "anger",
+                "score": 0.927017867565155
+            },
+            {
+                "label": "anger",
+                "score": 0.9851048588752747
+            },
+            {
+                "label": "neutral",
+                "score": 0.5692275166511536
+            },
+            {
+                "label": "joy",
+                "score": 0.9691800475120544
+            }
+        ],
+        "listener_emotion": [
+            {
+                "label": "neutral",
+                "score": 0.706064760684967
+            },
+            {
+                "label": "anger",
+                "score": 0.9851847887039185
+            },
+            {
+                "label": "neutral",
+                "score": 0.8901640772819519
+            },
+            {
+                "label": "neutral",
+                "score": 0.9419704079627991
+            }
+        ]
+    },
+    {
+        "index": 2,
+        "speaker_emotion": [
+            {
+                "label": "anger",
+                "score": 0.9454700946807861
+            },
+            {
+                "label": "neutral",
+                "score": 0.8447142243385315
+            },
+            {
+                "label": "neutral",
+                "score": 0.9676184058189392
+            },
+            {
+                "label": "neutral",
+                "score": 0.8528409004211426
+            },
+            {
+                "label": "joy",
+                "score": 0.9886021018028259
+            },
+            {
+                "label": "joy",
+                "score": 0.49143847823143005
+            },
+            {
+                "label": "neutral",
+                "score": 0.48355796933174133
+            },
+            {
+                "label": "joy",
+                "score": 0.4905953109264374
+            }
+        ],
+        "listener_emotion": [
+            {
+                "label": "neutral",
+                "score": 0.7194700241088867
+            },
+            {
+                "label": "neutral",
+                "score": 0.879500150680542
+            },
+            {
+                "label": "neutral",
+                "score": 0.9201167821884155
+            },
+            {
+                "label": "neutral",
+                "score": 0.960548996925354
+            },
+            {
+                "label": "joy",
+                "score": 0.9789854288101196
+            },
+            {
+                "label": "neutral",
+                "score": 0.8946928381919861
+            },
+            {
+                "label": "neutral",
+                "score": 0.8518934845924377
+            },
+            {
+                "label": "neutral",
+                "score": 0.7897449135780334
+            }
+        ]
+    },
+    {
+        "index": 3,
+        "speaker_emotion": [
+            {
+                "label": "anger",
+                "score": 0.9454700946807861
+            },
+            {
+                "label": "neutral",
+                "score": 0.8447142243385315
+            },
+            {
+                "label": "neutral",
+                "score": 0.9676184058189392
+            },
+            {
+                "label": "neutral",
+                "score": 0.8528409004211426
+            },
+            {
+                "label": "joy",
+                "score": 0.9886021018028259
+            },
+            {
+                "label": "joy",
+                "score": 0.49143847823143005
+            },
+            {
+                "label": "neutral",
+                "score": 0.48355796933174133
+            },
+            {
+                "label": "joy",
+                "score": 0.4905953109264374
+            }
+        ],
+        "listener_emotion": [
+            {
+                "label": "neutral",
+                "score": 0.7194700241088867
+            },
+            {
+                "label": "neutral",
+                "score": 0.879500150680542
+            },
+            {
+                "label": "neutral",
+                "score": 0.9201167821884155
+            },
+            {
+                "label": "neutral",
+                "score": 0.960548996925354
+            },
+            {
+                "label": "joy",
+                "score": 0.9789854288101196
+            },
+            {
+                "label": "neutral",
+                "score": 0.8946928381919861
+            },
+            {
+                "label": "neutral",
+                "score": 0.8518934845924377
+            },
+            {
+                "label": "neutral",
+                "score": 0.7897449135780334
+            }
+        ]
+    },
+    {
+        "index": 4,
+        "speaker_emotion": [
+            {
+                "label": "anger",
+                "score": 0.927017867565155
+            },
+            {
+                "label": "anger",
+                "score": 0.9851048588752747
+            },
+            {
+                "label": "neutral",
+                "score": 0.5692275166511536
+            },
+            {
+                "label": "joy",
+                "score": 0.9691800475120544
+            }
+        ],
+        "listener_emotion": [
+            {
+                "label": "neutral",
+                "score": 0.706064760684967
+            },
+            {
+                "label": "anger",
+                "score": 0.9851847887039185
+            },
+            {
+                "label": "neutral",
+                "score": 0.8901640772819519
+            },
+            {
+                "label": "neutral",
+                "score": 0.9419704079627991
+            }
+        ]
+    },
+    {
+        "index": 5,
+        "speaker_emotion": [
+            {
+                "label": "anger",
+                "score": 0.927017867565155
+            },
+            {
+                "label": "anger",
+                "score": 0.9851048588752747
+            },
+            {
+                "label": "neutral",
+                "score": 0.5692275166511536
+            },
+            {
+                "label": "joy",
+                "score": 0.9691800475120544
+            }
+        ],
+        "listener_emotion": [
+            {
+                "label": "neutral",
+                "score": 0.706064760684967
+            },
+            {
+                "label": "anger",
+                "score": 0.9851847887039185
+            },
+            {
+                "label": "neutral",
+                "score": 0.8901640772819519
+            },
+            {
+                "label": "neutral",
+                "score": 0.9419704079627991
+            }
+        ]
+    },
+    {
+        "index": 6,
+        "speaker_emotion": [
+            {
+                "label": "anger",
+                "score": 0.927017867565155
+            },
+            {
+                "label": "anger",
+                "score": 0.9851048588752747
+            },
+            {
+                "label": "neutral",
+                "score": 0.5692275166511536
+            },
+            {
+                "label": "joy",
+                "score": 0.9691800475120544
+            }
+        ],
+        "listener_emotion": [
+            {
+                "label": "neutral",
+                "score": 0.706064760684967
+            },
+            {
+                "label": "anger",
+                "score": 0.9851847887039185
+            },
+            {
+                "label": "neutral",
+                "score": 0.8901640772819519
+            },
+            {
+                "label": "neutral",
+                "score": 0.9419704079627991
+            }
+        ]
+    },
+    {
+        "index": 7,
+        "speaker_emotion": [
+            {
+                "label": "anger",
+                "score": 0.927017867565155
+            },
+            {
+                "label": "anger",
+                "score": 0.9851048588752747
+            },
+            {
+                "label": "neutral",
+                "score": 0.5692275166511536
+            },
+            {
+                "label": "joy",
+                "score": 0.9691800475120544
+            }
+        ],
+        "listener_emotion": [
+            {
+                "label": "neutral",
+                "score": 0.706064760684967
+            },
+            {
+                "label": "anger",
+                "score": 0.9851847887039185
+            },
+            {
+                "label": "neutral",
+                "score": 0.8901640772819519
+            },
+            {
+                "label": "neutral",
+                "score": 0.9419704079627991
+            }
+        ]
+    },
+    {
+        "index": 8,
+        "speaker_emotion": [
+            {
+                "label": "anger",
+                "score": 0.9454700946807861
+            },
+            {
+                "label": "neutral",
+                "score": 0.8447142243385315
+            },
+            {
+                "label": "neutral",
+                "score": 0.9676184058189392
+            },
+            {
+                "label": "neutral",
+                "score": 0.8528409004211426
+            },
+            {
+                "label": "joy",
+                "score": 0.9886021018028259
+            },
+            {
+                "label": "joy",
+                "score": 0.49143847823143005
+            },
+            {
+                "label": "neutral",
+                "score": 0.48355796933174133
+            },
+            {
+                "label": "joy",
+                "score": 0.4905953109264374
+            }
+        ],
+        "listener_emotion": [
+            {
+                "label": "neutral",
+                "score": 0.7194700241088867
+            },
+            {
+                "label": "neutral",
+                "score": 0.879500150680542
+            },
+            {
+                "label": "neutral",
+                "score": 0.9201167821884155
+            },
+            {
+                "label": "neutral",
+                "score": 0.960548996925354
+            },
+            {
+                "label": "joy",
+                "score": 0.9789854288101196
+            },
+            {
+                "label": "neutral",
+                "score": 0.8946928381919861
+            },
+            {
+                "label": "neutral",
+                "score": 0.8518934845924377
+            },
+            {
+                "label": "neutral",
+                "score": 0.7897449135780334
+            }
+        ]
+    },
+    {
+        "index": 9,
+        "speaker_emotion": [
+            {
+                "label": "anger",
+                "score": 0.9454700946807861
+            },
+            {
+                "label": "neutral",
+                "score": 0.8447142243385315
+            },
+            {
+                "label": "neutral",
+                "score": 0.9676184058189392
+            },
+            {
+                "label": "neutral",
+                "score": 0.8528409004211426
+            },
+            {
+                "label": "joy",
+                "score": 0.9886021018028259
+            },
+            {
+                "label": "joy",
+                "score": 0.49143847823143005
+            },
+            {
+                "label": "neutral",
+                "score": 0.48355796933174133
+            },
+            {
+                "label": "joy",
+                "score": 0.4905953109264374
+            }
+        ],
+        "listener_emotion": [
+            {
+                "label": "neutral",
+                "score": 0.7194700241088867
+            },
+            {
+                "label": "neutral",
+                "score": 0.879500150680542
+            },
+            {
+                "label": "neutral",
+                "score": 0.9201167821884155
+            },
+            {
+                "label": "neutral",
+                "score": 0.960548996925354
+            },
+            {
+                "label": "joy",
+                "score": 0.9789854288101196
+            },
+            {
+                "label": "neutral",
+                "score": 0.8946928381919861
+            },
+            {
+                "label": "neutral",
+                "score": 0.8518934845924377
+            },
+            {
+                "label": "neutral",
+                "score": 0.7897449135780334
+            }
+        ]
+    },
+    {
+        "index": 10,
+        "speaker_emotion": [
+            {
+                "label": "anger",
+                "score": 0.927017867565155
+            },
+            {
+                "label": "anger",
+                "score": 0.9851048588752747
+            },
+            {
+                "label": "neutral",
+                "score": 0.5692275166511536
+            },
+            {
+                "label": "joy",
+                "score": 0.9691800475120544
+            }
+        ],
+        "listener_emotion": [
+            {
+                "label": "neutral",
+                "score": 0.706064760684967
+            },
+            {
+                "label": "anger",
+                "score": 0.9851847887039185
+            },
+            {
+                "label": "neutral",
+                "score": 0.8901640772819519
+            },
+            {
+                "label": "neutral",
+                "score": 0.9419704079627991
+            }
+        ]
+    },
+    {
+        "index": 11,
+        "speaker_emotion": [
+            {
+                "label": "anger",
+                "score": 0.9454700946807861
+            },
+            {
+                "label": "neutral",
+                "score": 0.8447142243385315
+            },
+            {
+                "label": "neutral",
+                "score": 0.9676184058189392
+            },
+            {
+                "label": "neutral",
+                "score": 0.8528409004211426
+            },
+            {
+                "label": "joy",
+                "score": 0.9886021018028259
+            },
+            {
+                "label": "joy",
+                "score": 0.49143847823143005
+            },
+            {
+                "label": "neutral",
+                "score": 0.48355796933174133
+            },
+            {
+                "label": "joy",
+                "score": 0.4905953109264374
+            }
+        ],
+        "listener_emotion": [
+            {
+                "label": "neutral",
+                "score": 0.7194700241088867
+            },
+            {
+                "label": "neutral",
+                "score": 0.879500150680542
+            },
+            {
+                "label": "neutral",
+                "score": 0.9201167821884155
+            },
+            {
+                "label": "neutral",
+                "score": 0.960548996925354
+            },
+            {
+                "label": "joy",
+                "score": 0.9789854288101196
+            },
+            {
+                "label": "neutral",
+                "score": 0.8946928381919861
+            },
+            {
+                "label": "neutral",
+                "score": 0.8518934845924377
+            },
+            {
+                "label": "neutral",
+                "score": 0.7897449135780334
+            }
+        ]
+    },
+    {
+        "index": 12,
+        "speaker_emotion": [
+            {
+                "label": "anger",
+                "score": 0.927017867565155
+            },
+            {
+                "label": "anger",
+                "score": 0.9851048588752747
+            },
+            {
+                "label": "neutral",
+                "score": 0.5692275166511536
+            },
+            {
+                "label": "joy",
+                "score": 0.9691800475120544
+            }
+        ],
+        "listener_emotion": [
+            {
+                "label": "neutral",
+                "score": 0.706064760684967
+            },
+            {
+                "label": "anger",
+                "score": 0.9851847887039185
+            },
+            {
+                "label": "neutral",
+                "score": 0.8901640772819519
+            },
+            {
+                "label": "neutral",
+                "score": 0.9419704079627991
+            }
+        ]
+    },
+    {
+        "index": 13,
+        "speaker_emotion": [
+            {
+                "label": "anger",
+                "score": 0.9454700946807861
+            },
+            {
+                "label": "neutral",
+                "score": 0.8447142243385315
+            },
+            {
+                "label": "neutral",
+                "score": 0.9676184058189392
+            },
+            {
+                "label": "neutral",
+                "score": 0.8528409004211426
+            },
+            {
+                "label": "joy",
+                "score": 0.9886021018028259
+            },
+            {
+                "label": "joy",
+                "score": 0.49143847823143005
+            },
+            {
+                "label": "neutral",
+                "score": 0.48355796933174133
+            },
+            {
+                "label": "joy",
+                "score": 0.4905953109264374
+            }
+        ],
+        "listener_emotion": [
+            {
+                "label": "neutral",
+                "score": 0.7194700241088867
+            },
+            {
+                "label": "neutral",
+                "score": 0.879500150680542
+            },
+            {
+                "label": "neutral",
+                "score": 0.9201167821884155
+            },
+            {
+                "label": "neutral",
+                "score": 0.960548996925354
+            },
+            {
+                "label": "joy",
+                "score": 0.9789854288101196
+            },
+            {
+                "label": "neutral",
+                "score": 0.8946928381919861
+            },
+            {
+                "label": "neutral",
+                "score": 0.8518934845924377
+            },
+            {
+                "label": "neutral",
+                "score": 0.7897449135780334
+            }
+        ]
+    },
+    {
+        "index": 14,
+        "speaker_emotion": [
+            {
+                "label": "anger",
+                "score": 0.9454700946807861
+            },
+            {
+                "label": "neutral",
+                "score": 0.8447142243385315
+            },
+            {
+                "label": "neutral",
+                "score": 0.9676184058189392
+            },
+            {
+                "label": "neutral",
+                "score": 0.8528409004211426
+            },
+            {
+                "label": "joy",
+                "score": 0.9886021018028259
+            },
+            {
+                "label": "joy",
+                "score": 0.49143847823143005
+            },
+            {
+                "label": "neutral",
+                "score": 0.48355796933174133
+            },
+            {
+                "label": "joy",
+                "score": 0.4905953109264374
+            }
+        ],
+        "listener_emotion": [
+            {
+                "label": "neutral",
+                "score": 0.7194700241088867
+            },
+            {
+                "label": "neutral",
+                "score": 0.879500150680542
+            },
+            {
+                "label": "neutral",
+                "score": 0.9201167821884155
+            },
+            {
+                "label": "neutral",
+                "score": 0.960548996925354
+            },
+            {
+                "label": "joy",
+                "score": 0.9789854288101196
+            },
+            {
+                "label": "neutral",
+                "score": 0.8946928381919861
+            },
+            {
+                "label": "neutral",
+                "score": 0.8518934845924377
+            },
+            {
+                "label": "neutral",
+                "score": 0.7897449135780334
+            }
+        ]
+    },
+    {
+        "index": 15,
+        "speaker_emotion": [
+            {
+                "label": "anger",
+                "score": 0.9454700946807861
+            },
+            {
+                "label": "neutral",
+                "score": 0.8447142243385315
+            },
+            {
+                "label": "neutral",
+                "score": 0.9676184058189392
+            },
+            {
+                "label": "neutral",
+                "score": 0.8528409004211426
+            },
+            {
+                "label": "joy",
+                "score": 0.9886021018028259
+            },
+            {
+                "label": "joy",
+                "score": 0.49143847823143005
+            },
+            {
+                "label": "neutral",
+                "score": 0.48355796933174133
+            },
+            {
+                "label": "joy",
+                "score": 0.4905953109264374
+            }
+        ],
+        "listener_emotion": [
+            {
+                "label": "neutral",
+                "score": 0.7194700241088867
+            },
+            {
+                "label": "neutral",
+                "score": 0.879500150680542
+            },
+            {
+                "label": "neutral",
+                "score": 0.9201167821884155
+            },
+            {
+                "label": "neutral",
+                "score": 0.960548996925354
+            },
+            {
+                "label": "joy",
+                "score": 0.9789854288101196
+            },
+            {
+                "label": "neutral",
+                "score": 0.8946928381919861
+            },
+            {
+                "label": "neutral",
+                "score": 0.8518934845924377
+            },
+            {
+                "label": "neutral",
+                "score": 0.7897449135780334
+            }
+        ]
+    }
+]

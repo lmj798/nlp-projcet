@@ -1,0 +1,1 @@
+在python3.11环境下，需要安装re、genism、numpy、sklearn等包

@@ -1,0 +1,6 @@
+dashscope==1.19.0
+openai==1.14.0
+tqdm==4.66.1
+transformers==4.38.0
+# 如果你需要本地部署到话，则需要vllm。如果不需要的话，请自行注释所有vllm部署相关代码。
+vllm==0.3.3

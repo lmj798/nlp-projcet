@@ -1,0 +1,52 @@
+[
+    {
+        "anger_joy": {
+            "global_metric_top_k_1": 0.0625,
+            "local_metric_top_k_1": 0.0625,
+            "global_metric_top_k_2": 0.0625,
+            "local_metric_top_k_2": 0.03125,
+            "global_metric_top_k_3": 0.0625,
+            "local_metric_top_k_3": 0.03125
+        },
+        "anger_sadness": {
+            "global_metric_top_k_1": 0.3125,
+            "local_metric_top_k_1": 0.3125,
+            "global_metric_top_k_2": 0.375,
+            "local_metric_top_k_2": 0.34375,
+            "global_metric_top_k_3": 0.375,
+            "local_metric_top_k_3": 0.34375
+        },
+        "joy_anger": {
+            "global_metric_top_k_1": 0.0,
+            "local_metric_top_k_1": 0.0,
+            "global_metric_top_k_2": 0.0,
+            "local_metric_top_k_2": 0.0,
+            "global_metric_top_k_3": 0.0,
+            "local_metric_top_k_3": 0.0
+        },
+        "joy_sadness": {
+            "global_metric_top_k_1": 0.1875,
+            "local_metric_top_k_1": 0.1875,
+            "global_metric_top_k_2": 0.3125,
+            "local_metric_top_k_2": 0.21875,
+            "global_metric_top_k_3": 0.3125,
+            "local_metric_top_k_3": 0.20833333333333334
+        },
+        "sadness_anger": {
+            "global_metric_top_k_1": 0.0,
+            "local_metric_top_k_1": 0.0,
+            "global_metric_top_k_2": 0.0,
+            "local_metric_top_k_2": 0.0,
+            "global_metric_top_k_3": 0.0,
+            "local_metric_top_k_3": 0.0
+        },
+        "sadness_joy": {
+            "global_metric_top_k_1": 0.0,
+            "local_metric_top_k_1": 0.0,
+            "global_metric_top_k_2": 0.0,
+            "local_metric_top_k_2": 0.0,
+            "global_metric_top_k_3": 0.0,
+            "local_metric_top_k_3": 0.0
+        }
+    }
+]

@@ -1,0 +1,334 @@
+[
+    {
+        "index": 0,
+        "speaker_emotion": [
+            {
+                "label": "sadness",
+                "score": 0.6474222540855408
+            },
+            {
+                "label": "sadness",
+                "score": 0.851162850856781
+            }
+        ],
+        "listener_emotion": [
+            {
+                "label": "sadness",
+                "score": 0.975781261920929
+            }
+        ]
+    },
+    {
+        "index": 1,
+        "speaker_emotion": [
+            {
+                "label": "sadness",
+                "score": 0.9665419459342957
+            },
+            {
+                "label": "sadness",
+                "score": 0.9276745915412903
+            }
+        ],
+        "listener_emotion": [
+            {
+                "label": "sadness",
+                "score": 0.9749173521995544
+            },
+            {
+                "label": "sadness",
+                "score": 0.745802104473114
+            }
+        ]
+    },
+    {
+        "index": 2,
+        "speaker_emotion": [
+            {
+                "label": "sadness",
+                "score": 0.9348989725112915
+            },
+            {
+                "label": "sadness",
+                "score": 0.5295461416244507
+            }
+        ],
+        "listener_emotion": [
+            {
+                "label": "surprise",
+                "score": 0.47610822319984436
+            }
+        ]
+    },
+    {
+        "index": 3,
+        "speaker_emotion": [
+            {
+                "label": "sadness",
+                "score": 0.8308664560317993
+            },
+            {
+                "label": "sadness",
+                "score": 0.9212377667427063
+            }
+        ],
+        "listener_emotion": [
+            {
+                "label": "sadness",
+                "score": 0.9810545444488525
+            },
+            {
+                "label": "neutral",
+                "score": 0.45061489939689636
+            }
+        ]
+    },
+    {
+        "index": 4,
+        "speaker_emotion": [
+            {
+                "label": "sadness",
+                "score": 0.9267804026603699
+            },
+            {
+                "label": "sadness",
+                "score": 0.9018152356147766
+            }
+        ],
+        "listener_emotion": [
+            {
+                "label": "sadness",
+                "score": 0.8861238360404968
+            }
+        ]
+    },
+    {
+        "index": 5,
+        "speaker_emotion": [
+            {
+                "label": "sadness",
+                "score": 0.5417155623435974
+            },
+            {
+                "label": "sadness",
+                "score": 0.860405683517456
+            }
+        ],
+        "listener_emotion": [
+            {
+                "label": "sadness",
+                "score": 0.9743558168411255
+            },
+            {
+                "label": "sadness",
+                "score": 0.7563303112983704
+            }
+        ]
+    },
+    {
+        "index": 6,
+        "speaker_emotion": [
+            {
+                "label": "sadness",
+                "score": 0.44036805629730225
+            },
+            {
+                "label": "sadness",
+                "score": 0.7794575095176697
+            }
+        ],
+        "listener_emotion": [
+            {
+                "label": "sadness",
+                "score": 0.9050566554069519
+            }
+        ]
+    },
+    {
+        "index": 7,
+        "speaker_emotion": [
+            {
+                "label": "sadness",
+                "score": 0.8394770622253418
+            },
+            {
+                "label": "sadness",
+                "score": 0.5562581419944763
+            }
+        ],
+        "listener_emotion": [
+            {
+                "label": "sadness",
+                "score": 0.9666329622268677
+            }
+        ]
+    },
+    {
+        "index": 8,
+        "speaker_emotion": [
+            {
+                "label": "sadness",
+                "score": 0.8833710551261902
+            }
+        ],
+        "listener_emotion": [
+            {
+                "label": "sadness",
+                "score": 0.9347233176231384
+            }
+        ]
+    },
+    {
+        "index": 9,
+        "speaker_emotion": [
+            {
+                "label": "neutral",
+                "score": 0.5088657140731812
+            },
+            {
+                "label": "sadness",
+                "score": 0.9367611408233643
+            }
+        ],
+        "listener_emotion": [
+            {
+                "label": "sadness",
+                "score": 0.9418141841888428
+            },
+            {
+                "label": "sadness",
+                "score": 0.3619237542152405
+            }
+        ]
+    },
+    {
+        "index": 10,
+        "speaker_emotion": [
+            {
+                "label": "sadness",
+                "score": 0.6673093438148499
+            },
+            {
+                "label": "sadness",
+                "score": 0.9471215009689331
+            }
+        ],
+        "listener_emotion": [
+            {
+                "label": "sadness",
+                "score": 0.9594429135322571
+            }
+        ]
+    },
+    {
+        "index": 11,
+        "speaker_emotion": [
+            {
+                "label": "sadness",
+                "score": 0.9549503922462463
+            },
+            {
+                "label": "sadness",
+                "score": 0.9732782244682312
+            }
+        ],
+        "listener_emotion": [
+            {
+                "label": "sadness",
+                "score": 0.9534541964530945
+            },
+            {
+                "label": "sadness",
+                "score": 0.8237259984016418
+            }
+        ]
+    },
+    {
+        "index": 12,
+        "speaker_emotion": [
+            {
+                "label": "sadness",
+                "score": 0.9726789593696594
+            },
+            {
+                "label": "sadness",
+                "score": 0.9378091096878052
+            }
+        ],
+        "listener_emotion": [
+            {
+                "label": "fear",
+                "score": 0.6308726072311401
+            },
+            {
+                "label": "sadness",
+                "score": 0.906292200088501
+            }
+        ]
+    },
+    {
+        "index": 13,
+        "speaker_emotion": [
+            {
+                "label": "sadness",
+                "score": 0.929570734500885
+            },
+            {
+                "label": "sadness",
+                "score": 0.7092623710632324
+            }
+        ],
+        "listener_emotion": [
+            {
+                "label": "sadness",
+                "score": 0.9364904165267944
+            }
+        ]
+    },
+    {
+        "index": 14,
+        "speaker_emotion": [
+            {
+                "label": "sadness",
+                "score": 0.8043509125709534
+            },
+            {
+                "label": "sadness",
+                "score": 0.8226498365402222
+            }
+        ],
+        "listener_emotion": [
+            {
+                "label": "sadness",
+                "score": 0.9640588760375977
+            },
+            {
+                "label": "sadness",
+                "score": 0.7128303050994873
+            }
+        ]
+    },
+    {
+        "index": 15,
+        "speaker_emotion": [
+            {
+                "label": "sadness",
+                "score": 0.8376805186271667
+            },
+            {
+                "label": "sadness",
+                "score": 0.8999205231666565
+            }
+        ],
+        "listener_emotion": [
+            {
+                "label": "sadness",
+                "score": 0.8696514368057251
+            },
+            {
+                "label": "sadness",
+                "score": 0.5199351906776428
+            }
+        ]
+    }
+]
